@@ -1,4 +1,4 @@
-# Görsel Programlama Projesi
+# Görsel Programlama Projesi - 1
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş; içerisinde dinamik Mayın Tarlası mini oyunu, araç marka/model listeleme, sayaçlar ve anlık saat barındıran kapsamlı bir masaüstü uygulama örneğidir.
 <br>
 <br>
